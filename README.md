@@ -20,7 +20,7 @@ Interested in building data pipelines, working with cloud platforms, and transfo
 
 ## Projects
 
-Projects will be added here as I build my Data Engineering portfolio.
+Currently building hands-on projects in SQL, Python, Power BI, and Data Engineering.
 
 ## Connect With Me
 
