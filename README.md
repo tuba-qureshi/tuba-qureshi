@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Tuba Qureshi 👋
 
-<!--
-**tuba-qureshi/tuba-qureshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Engineer
 
-Here are some ideas to get you started:
+Interested in building data pipelines, working with cloud platforms, and transforming raw data into meaningful information.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- **Programming:** SQL, Python
+- **Big Data:** Apache Spark, PySpark
+- **Cloud & Data Platforms:** Microsoft Fabric, Azure, Databricks
+- **Data Engineering:** ETL, Data Pipelines, Data Ingestion, Data Transformation
+- **Tools:** Azure Data Factory, Git, GitHub
+
+## Certifications
+
+- Microsoft Certified: Fabric Data Engineer Associate (DP-700)
+- IBM Data Fundamentals
+- Databricks Fundamentals Accreditation
+
+## Projects
+
+Projects will be added here as I build my Data Engineering portfolio.
+
+## Connect With Me
+
+- LinkedIn: linkedin.com/in/tuba-qureshi
